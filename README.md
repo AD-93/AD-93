@@ -6,7 +6,7 @@
   - [SIEM Project](https://github.com/AD-93/SIEM-Project.git)
 <h2>📄  Certifications</h2>
 
-- [Google Cybersecurity Professional Certificate] (https://coursera.org/share/c9576d181a6e23f00307953553ad3ec4)
+- [Google Cybersecurity Professional Certificate](https://coursera.org/share/c9576d181a6e23f00307953553ad3ec4)
 
 <h2>📺 Popular YouTube Videos</h2>
 
