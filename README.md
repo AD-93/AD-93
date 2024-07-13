@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Active Directory Home Lab]()
+  - [Azure Active Directory Lab]()
   - [SIEM Project](https://github.com/AD-93/SIEM-Project.git)
 <h2>📄  Certifications</h2>
 
