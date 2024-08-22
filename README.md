@@ -8,7 +8,7 @@
   - <h2>📄  Certifications</h2>
 
 - [Google Cybersecurity Professional Certificate](https://coursera.org/share/c9576d181a6e23f00307953553ad3ec4)
-
+- [Comptia Security +]((https://www.credly.com/users/austin-davis.af8bad77) 
 <h2>📺 Popular YouTube Videos</h2>
 
 - [ SIEM Project ](https://youtu.be/2aJnm5za0WE)
