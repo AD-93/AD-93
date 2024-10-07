@@ -4,7 +4,7 @@
 
   - [Azure Active Directory Lab](https://github.com/AD-93/Azure-Active-Directory-Lab/tree/main)
   - [SIEM Project](https://github.com/AD-93/SIEM-Project.git)
-  - [Vulnerability Management Lab (In Progress)]
+  - [Vulnerability Management Lab (In Progress)
   - <h2>📄  Certifications</h2>
 
 - [Google Cybersecurity Professional Certificate](https://coursera.org/share/c9576d181a6e23f00307953553ad3ec4)
