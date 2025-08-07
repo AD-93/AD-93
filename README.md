@@ -15,7 +15,7 @@
 - [ Azure Active Directory Lab ](https://youtu.be/vvYlWguqcp4)
 - [ SpiceWorks Ticketing System ](https://youtu.be/qEfZZqVaPM0)
 -  <h2> 🤳 Connect with me:</h2>
-[linkedin]:(www.linkedin.com/in/austin-davis-05442a83)
+[linkedin]:(www.linkedin.com/in/austin-davis-05442a83)(https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
