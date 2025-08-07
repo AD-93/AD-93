@@ -6,6 +6,7 @@
   - [SIEM Project](https://github.com/AD-93/SIEM-Project.git)
   - Vulnerability Management Lab (In Progress)
   - <h2>👨🏾‍💻 Help Desk Projects</h2>
+  - [SpiceWorks Ticketing Sytem](https://github.com/AD-93/Ticketing-System-Simulation)
   - <h2>📄  Certifications</h2>
 
 - [Google Cybersecurity Professional Certificate](https://coursera.org/share/c9576d181a6e23f00307953553ad3ec4)
