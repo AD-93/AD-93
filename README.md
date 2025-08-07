@@ -13,7 +13,8 @@
 
 - [ SIEM Project ](https://youtu.be/2aJnm5za0WE)
 - [ Azure Active Directory Lab ](https://youtu.be/vvYlWguqcp4)
-<h2> 🤳 Connect with me:</h2>
+- [ SpiceWorks Ticketing System] [
+](https://youtu.be/qEfZZqVaPM0)    <h2> 🤳 Connect with me:</h2>
 
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
